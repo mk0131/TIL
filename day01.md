@@ -32,7 +32,7 @@ git init
 public void Java01(){}
 ```
 
-[표시글자][https://github.com/]
+[표시글자](https://github.com/)
 
 ![자바](https://blog.kakaocdn.net/dn/cZsyTw/btq0u5VBWge/F7xmauYA6r8nnbXSz2vJhK/img.png)
 
