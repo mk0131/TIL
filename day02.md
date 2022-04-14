@@ -11,7 +11,7 @@ git branch
    ```
 3.  브랜치 이동
    ```bash
-   git switch
+   git switch 브랜치명
    ```
 3. 1  이동과 동시에 브랜치 생성
    ```bash
