@@ -7,4 +7,5 @@
 
 - [branch 생성과 merge & fork](https://github.com/mk0131/TIL/blob/master/day02.md)
 
-# css
+# CSS
+# SQL 
