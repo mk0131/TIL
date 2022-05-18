@@ -8,6 +8,7 @@
 - [branch 생성과 merge & fork](https://github.com/mk0131/TIL/blob/master/day02.md)
 
 # CSS
+- [css 연습](https://github.com/mk0131/4_UI/tree/master/2_css)
 # SQL 
 - [sql 연습](https://github.com/mk0131/CSS)
 # JAVA
